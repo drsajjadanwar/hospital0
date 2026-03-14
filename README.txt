@@ -3,6 +3,11 @@
 ## Overview
 hospital0 is a comprehensive, role-based internal portal designed to manage the daily operations of a medical centre. It integrates clinical sessions, financial ledgers, pharmacy inventory, human resources, and point-of-sale (POS) systems into a single, centralised application.
 
+Some screenshots:
+https://storage.paperbus.org/hospital0/1.jpg
+https://storage.paperbus.org/hospital0/2.jpg
+https://storage.paperbus.org/hospital0/3.jpg
+
 ## System Architecture
 
 Do NOT forget to extract the coredirectories.zip file to /; overwrite if promoted. 
