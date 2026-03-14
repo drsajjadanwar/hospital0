@@ -5,7 +5,7 @@ hospital0 is a comprehensive, role-based internal portal designed to manage the 
 
 ## System Architecture
 
-```text
+Do NOT forget to extract the coredirectories.zip file to /; overwrite if promoted. 
 ===========================================================================================
                                   [ END USERS / ROLES ]
   (Group 1: CMO)      (Group 2: Aestheticians)     (Group 3+: Finance, Admin, Pharmacy)
