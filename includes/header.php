@@ -26,7 +26,7 @@ $isLoggedIn = isset($_SESSION['user']);
         <li><a href="attendance.php" class="nav-link white-text">Attendance</a></li>
         <li><a href="office_notices.php" class="nav-link white-text">Office Notices</a></li>
         <li><a href="complaints.php" class="nav-link white-text">Complaints</a></li>
-        <li><a href="https://work.anwar.health" class="nav-link white-text">Careers</a></li>
+        <li><a href="#" class="nav-link white-text">Careers</a></li>
 
         <?php if ($isLoggedIn): ?>
           <li><a href="logout.php" class="nav-link white-text">Logout</a></li>
